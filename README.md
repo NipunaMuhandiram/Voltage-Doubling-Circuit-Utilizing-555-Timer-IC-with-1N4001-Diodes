@@ -1,4 +1,4 @@
-# Voltage Doubler Circuit using 555 Timer IC
+# Voltage Doubler Circuit using NE555 IC
 
 This project demonstrates a voltage doubler circuit using the 555 Timer IC. The circuit steps up the input voltage to approximately double the input voltage.
 ## Project Description
