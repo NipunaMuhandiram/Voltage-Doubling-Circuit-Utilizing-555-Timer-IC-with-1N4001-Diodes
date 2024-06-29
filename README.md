@@ -8,7 +8,7 @@ This project demonstrates the construction of a voltage doubler circuit using a 
 
 - **IC**: 555 Timer
 - **Diodes**: 2 x 1N4001
-- **Capacitors**: 3 x 1nF
+- **Capacitors**: 1 x 1nF, 2 x 1uF
 - **Resistor**: 33KΩ
 
 ## PCB Design
